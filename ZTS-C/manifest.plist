@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/LaoDLearniOS/ZTS-C/raw/main/ZTS-C/SafeConnect.ipa</string>
+					<string>https://github.com/LaoDLearniOS/ZTS-C/blob/main/ZTS-C/SafeConnect.ipa?raw=true</string>
 				</dict>
 				<dict>
 					<key>kind</key>
